@@ -10,7 +10,11 @@
 - [Numerical Methods](https://github.com/adairneto/Numerical-Analysis): MatLab codes to solve mathematical problems. Used in a Numerical Methods course.
 - [Small Projects](https://github.com/adairneto/Small-Projects): Codes in C, Haskell and Python for general small projects. Also includes exercises for languages that I'm learning.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adairneto)](https://github.com/adairneto/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adairneto&&show_icons=true&hide_title=true&theme=radical&layout=compact&hide_border=true&border_radius=30&langs_count=15&exclude_repo=Analyseroom&hide=c%2B%2B,html,css,tex," alt="top languages"/>
+  </a>
+</p>
 
 ## ✏️🇬🇧 Texts (English)
 

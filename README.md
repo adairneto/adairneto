@@ -10,6 +10,8 @@
 - [Numerical Methods](https://github.com/adairneto/Numerical-Analysis): MatLab codes to solve mathematical problems. Used in a Numerical Methods course.
 - [Small Projects](https://github.com/adairneto/Small-Projects): Codes in C, Haskell and Python for general small projects. Also includes exercises for languages that I'm learning.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adairneto&layout=compact)](https://github.com/adairneto/github-readme-stats)
+
 ## ✏️🇬🇧 Texts (English)
 
 [How to Solve Ordinary Differential Equations](https://raw.githubusercontent.com/adairneto/adairneto.github.io/main/_posts/HTSODE.pdf)

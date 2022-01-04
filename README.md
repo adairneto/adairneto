@@ -2,7 +2,7 @@
 
 - 📚 I am undergraduate Pure Mathematics student at [IMECC - Unicamp](https://www.ime.unicamp.br/)
 - 🔎 My main interests are Abstract Algebra, Logic, Functional Programming and Automated Reasoning
-- 📃 [CV](https://raw.githubusercontent.com/adairneto/adairneto.github.io/main/CV.pdf)
+- 📃 [CV](https://github.com/adairneto/adairneto.github.io/blob/master/CV.pdf)
 
 ## 👨🏻‍💻 Code
 

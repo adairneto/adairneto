@@ -1,14 +1,15 @@
 # Welcome to my GitHub 👋
 
 - 📚 I am undergraduate Pure Mathematics student at [IMECC - Unicamp](https://www.ime.unicamp.br/)
-- 🔎 My main interests are Abstract Algebra, Logic, Functional Programming and Knowledge Representation in Artificial Intelligence
+- 🔎 My main interests are Abstract Algebra, Logic, Functional Programming and Automated Reasoning
 - 📃 [CV](https://raw.githubusercontent.com/adairneto/adairneto.github.io/main/CV.pdf)
 
 ## 👨🏻‍💻 Code
 
 - [FUMEC](https://github.com/adairneto/FUMEC): Python codes used to analyse and treat data while working at FUMEC.
 - [Numerical Methods](https://github.com/adairneto/Numerical-Analysis): MatLab codes to solve mathematical problems. Used in a Numerical Methods course.
-- [Small Projects](https://github.com/adairneto/Small-Projects): Codes in C, Haskell and Python for general small projects. Also includes exercises for languages that I'm learning.
+- [Small Projects](https://github.com/adairneto/Small-Projects): Codes in C, Haskell and Python for general small projects.
+- There are also some repositories with notes and exercises for content that I'm learning, like [How To Design Programs](https://github.com/adairneto/How-to-Design-Programs) and [Learning Haskell](https://github.com/adairneto/Learning-Haskell).
 - Most used languages:
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -18,9 +19,9 @@
 
 ## ✏️🇬🇧 Texts (English)
 
-[How to Solve Ordinary Differential Equations](https://raw.githubusercontent.com/adairneto/adairneto.github.io/main/_posts/HTSODE.pdf)
-
 [Algebra: The Basics of It](https://github.com/adairneto/Algebra/raw/main/algebra.pdf)
+
+[How to Solve Ordinary Differential Equations](https://raw.githubusercontent.com/adairneto/adairneto.github.io/main/_posts/HTSODE.pdf)
 
 ## ✏️🇧🇷 Texts (Portuguese)
 

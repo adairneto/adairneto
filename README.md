@@ -21,6 +21,8 @@
 
 [Algebra: The Basics of It](https://github.com/adairneto/Algebra/raw/main/algebra.pdf)
 
+[Principles of Microeconomics](https://raw.githubusercontent.com/adairneto/Microeconomics/main/MIT_14.01.pdf)
+
 [How to Solve Ordinary Differential Equations](https://raw.githubusercontent.com/adairneto/How-to-solve-Ordinary-Differential-Equations/main/How%20to%20solve%20Ordinary%20Differential%20Equations.pdf)
 
 ## ✏️🇧🇷 Texts (Portuguese)

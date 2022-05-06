@@ -19,6 +19,10 @@
 
 ## ✏️🇬🇧 Texts (English)
 
+[Foundations of Automated Reasoning: Intuitionistic Logic and Type Theory](https://raw.githubusercontent.com/adairneto/Intuitionistic-Logic/main/intuitionistic.pdf)
+
+[Analysis 1: Study Notes](https://raw.githubusercontent.com/adairneto/Analysis-1/main/Analysis_Notes.pdf)
+
 [Algebra: The Basics of It](https://github.com/adairneto/Algebra/raw/main/algebra.pdf)
 
 [Principles of Microeconomics](https://raw.githubusercontent.com/adairneto/Microeconomics/main/MIT_14.01.pdf)

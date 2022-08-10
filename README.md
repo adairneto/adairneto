@@ -1,7 +1,7 @@
 # Welcome to my GitHub 👋
 
 - 📚 I am undergraduate Pure Mathematics student at [IMECC - Unicamp](https://www.ime.unicamp.br/)
-- 🔎 My main interests are Abstract Algebra, Logic, Functional Programming and Automated Reasoning
+- 🔎 My main interests are Stochastic Differential Equations and their applications to Economic Theory, especially Macroeconomics.
 - 📃 [CV](https://github.com/adairneto/adairneto.github.io/blob/master/CV.pdf)
 
 ## 👨🏻‍💻 Code

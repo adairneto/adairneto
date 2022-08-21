@@ -35,6 +35,8 @@
 
 ## ✏️🇧🇷 Texts (Portuguese)
 
+[Livros para Aprender Matemática](https://github.com/adairneto/adairneto/blob/main/aprender-matem%C3%A1tica.md)
+
 [Álgebra Linear: Principais Ideias](https://github.com/adairneto/Algebra-Linear/raw/main/algelin-resumo.pdf)
 
 [Álgebra Linear: Exercícios Resolvidos](https://github.com/adairneto/Algebra-Linear/tree/main/Exerc%C3%ADcios%20Resolvidos)

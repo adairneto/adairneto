@@ -23,6 +23,8 @@
 
 [Principles of Microeconomics](https://raw.githubusercontent.com/adairneto/Microeconomics/main/MIT_14.01.pdf)
 
+[Principles of Macroeconomics](https://raw.githubusercontent.com/adairneto/Macroeconomics/main/Macroeconomics.pdf)
+
 [Stochastic Differential Equations](https://raw.githubusercontent.com/adairneto/Stochastic-Differential-Equations/main/SDE_Notes/SDE_Notes.pdf)
 
 [Stochastic Differential Equations: Solved problems from Øksendal's book](https://github.com/adairneto/Stochastic-Differential-Equations/tree/main/Exercises%20(pdf))

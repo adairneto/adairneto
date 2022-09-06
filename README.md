@@ -29,6 +29,10 @@
 
 [Stochastic Differential Equations: Solved problems from Øksendal's book](https://github.com/adairneto/Stochastic-Differential-Equations/tree/main/Exercises%20(pdf))
 
+[Advanced Linear Algebra](https://raw.githubusercontent.com/adairneto/Advanced-Linear-Algebra/main/Main.pdf)
+
+[Topology of Metric Spaces](https://github.com/adairneto/Metric-Spaces/blob/main/MA604.pdf)
+
 [Foundations of Automated Reasoning: Intuitionistic Logic and Type Theory](https://raw.githubusercontent.com/adairneto/Intuitionistic-Logic/main/intuitionistic.pdf)
 
 [Algebra: The Basics of It](https://github.com/adairneto/Algebra/raw/main/algebra.pdf)

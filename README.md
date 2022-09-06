@@ -31,7 +31,7 @@
 
 [Advanced Linear Algebra](https://raw.githubusercontent.com/adairneto/Advanced-Linear-Algebra/main/Main.pdf)
 
-[Topology of Metric Spaces](https://github.com/adairneto/Metric-Spaces/blob/main/MA604.pdf)
+[Topology of Metric Spaces](https://raw.githubusercontent.com/adairneto/Metric-Spaces/main/MA604.pdf)
 
 [Foundations of Automated Reasoning: Intuitionistic Logic and Type Theory](https://raw.githubusercontent.com/adairneto/Intuitionistic-Logic/main/intuitionistic.pdf)
 

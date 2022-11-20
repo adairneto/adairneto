@@ -19,25 +19,21 @@
 
 ## ✏️🇬🇧 Texts (English)
 
-[Analysis 1: Study Notes](https://raw.githubusercontent.com/adairneto/Analysis-1/main/Analysis_Notes.pdf)
-
-[Principles of Microeconomics](https://raw.githubusercontent.com/adairneto/Microeconomics/main/MIT_14.01.pdf)
-
-[Principles of Macroeconomics](https://raw.githubusercontent.com/adairneto/Macroeconomics/main/Macroeconomics.pdf)
-
 [Stochastic Differential Equations](https://raw.githubusercontent.com/adairneto/Stochastic-Differential-Equations/main/Notes/Main.pdf)
 
 [Stochastic Differential Equations: Solved problems from Øksendal's book](https://github.com/adairneto/Stochastic-Differential-Equations/tree/main/Exercises%20(pdf))
 
 [Advanced Linear Algebra](https://raw.githubusercontent.com/adairneto/Advanced-Linear-Algebra/main/Main.pdf)
 
-[Topology of Metric Spaces](https://raw.githubusercontent.com/adairneto/Metric-Spaces/main/MA604.pdf)
-
 [Foundations of Automated Reasoning: Intuitionistic Logic and Type Theory](https://raw.githubusercontent.com/adairneto/Intuitionistic-Logic/main/intuitionistic.pdf)
 
-[Algebra: The Basics of It](https://github.com/adairneto/Algebra/raw/main/algebra.pdf)
+[Data Structures](https://github.com/adairneto/Small-Projects/blob/main/Data_Structures.org)
 
-[How to Solve Ordinary Differential Equations](https://raw.githubusercontent.com/adairneto/How-to-solve-Ordinary-Differential-Equations/main/How%20to%20solve%20Ordinary%20Differential%20Equations.pdf)
+[Analysis 1](https://raw.githubusercontent.com/adairneto/Analysis-1/main/Analysis_Notes.pdf)
+
+[Principles of Microeconomics](https://raw.githubusercontent.com/adairneto/Microeconomics/main/MIT_14.01.pdf)
+
+[Principles of Macroeconomics](https://raw.githubusercontent.com/adairneto/Macroeconomics/main/Macroeconomics.pdf)
 
 ## ✏️🇧🇷 Texts (Portuguese)
 

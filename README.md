@@ -2,7 +2,7 @@
 
 - 📚 I am undergraduate Mathematics student at [IMECC - Unicamp](https://www.ime.unicamp.br/)
 - 🔎 My main interests are Stochastic Differential Equations and their applications to Economic Theory, especially Macroeconomics and Finance
-- 📃 [CV](https://github.com/adairneto/adairneto.github.io/blob/master/CV.pdf)
+- 📃 [CV](https://raw.githubusercontent.com/adairneto/CV/main/CV.pdf)
 
 ## 👨🏻‍💻 Code
 

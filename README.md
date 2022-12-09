@@ -1,7 +1,7 @@
 # Welcome to my GitHub 👋
 
-- 📚 I am undergraduate Pure Mathematics student at [IMECC - Unicamp](https://www.ime.unicamp.br/)
-- 🔎 My main interests are Stochastic Differential Equations and their applications to Economic Theory, especially Macroeconomics
+- 📚 I am undergraduate Mathematics student at [IMECC - Unicamp](https://www.ime.unicamp.br/)
+- 🔎 My main interests are Stochastic Differential Equations and their applications to Economic Theory, especially Macroeconomics and Finance
 - 📃 [CV](https://github.com/adairneto/adairneto.github.io/blob/master/CV.pdf)
 
 ## 👨🏻‍💻 Code
@@ -9,7 +9,7 @@
 - [FUMEC](https://github.com/adairneto/FUMEC): Python codes used to analyse and treat data while working at FUMEC.
 - [Numerical Methods](https://github.com/adairneto/Numerical-Analysis): MatLab codes to solve mathematical problems. Used in a Numerical Methods course.
 - [Small Projects](https://github.com/adairneto/Small-Projects): Codes in C, Haskell and Python for general small projects.
-- There are also some repositories with notes and exercises for content that I'm learning, like [How To Design Programs](https://github.com/adairneto/How-to-Design-Programs) and [Learning Haskell](https://github.com/adairneto/Learning-Haskell).
+- There are also some repositories with notes and exercises for content that I'm learning, like [How To Design Programs](https://github.com/adairneto/How-to-Design-Programs), [Data Structures](https://github.com/adairneto/Small-Projects/blob/main/Data_Structures.org), and [Learning Haskell](https://github.com/adairneto/Learning-Haskell).
 - Most used languages:
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -26,8 +26,6 @@
 [Advanced Linear Algebra](https://raw.githubusercontent.com/adairneto/Advanced-Linear-Algebra/main/Main.pdf)
 
 [Foundations of Automated Reasoning: Intuitionistic Logic and Type Theory](https://raw.githubusercontent.com/adairneto/Intuitionistic-Logic/main/intuitionistic.pdf)
-
-[Data Structures](https://github.com/adairneto/Small-Projects/blob/main/Data_Structures.org)
 
 [Analysis 1](https://raw.githubusercontent.com/adairneto/Analysis-1/main/Analysis_Notes.pdf)
 

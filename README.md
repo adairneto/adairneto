@@ -41,4 +41,4 @@
 
 [Álgebra Linear: Exercícios Resolvidos](https://github.com/adairneto/Algebra-Linear/tree/main/Exerc%C3%ADcios%20Resolvidos)
 
-[Espaços Métricos: Exercícios Resolvidos](https://github.com/adairneto/Metric-Spaces/blob/main/Espa%C3%A7os%20M%C3%A9tricos.apkg)
+[Espaços Métricos: Exercícios Resolvidos (Anki)](https://github.com/adairneto/Metric-Spaces/blob/main/Espa%C3%A7os%20M%C3%A9tricos.apkg)

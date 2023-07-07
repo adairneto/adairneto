@@ -24,6 +24,8 @@
 
 [Stochastic Differential Equations: Solved problems from Øksendal's book](https://github.com/adairneto/Stochastic-Differential-Equations/tree/main/Exercises%20(pdf))
 
+[Financial Risk Management with R](https://github.com/adairneto/Finance/blob/main/Notes.pdf)
+
 [Advanced Linear Algebra](https://raw.githubusercontent.com/adairneto/Advanced-Linear-Algebra/main/Main.pdf)
 
 [Analysis 1](https://raw.githubusercontent.com/adairneto/Analysis-1/main/Analysis_Notes.pdf)

@@ -1,6 +1,6 @@
 # Welcome to my GitHub 👋
 
-- 📚 I am undergraduate Mathematics student at [IMECC - Unicamp](https://www.ime.unicamp.br/)
+- 📚 I am an undergraduate Mathematics student at [IMECC - Unicamp](https://www.ime.unicamp.br/)
 - 🔎 My main interests are Stochastic Differential Equations and their applications to Economic Theory, especially Macroeconomics and Finance
 - 📃 [CV](https://raw.githubusercontent.com/adairneto/CV/main/CV.pdf)
 
@@ -19,6 +19,8 @@
 </p>
 
 ## ✏️🇬🇧 Texts (English)
+
+[Study Practices](https://github.com/adairneto/adairneto/blob/main/Study%20Practices.md)
 
 [Stochastic Differential Equations](https://raw.githubusercontent.com/adairneto/Stochastic-Differential-Equations/main/Notes/Main.pdf)
 

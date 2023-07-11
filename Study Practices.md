@@ -2,7 +2,7 @@
 
 Basic Principles
 
-1. Retrival
+1. Retrieval
 2. Spacing
 3. Linking
 
@@ -11,7 +11,7 @@ How to take notes during lectures?
 - Do not take verbatim notes, focus on the lecture
 - Free recall (textbook closed) after the lecture
 - List what you didn't understand (academic disaster insurance) 
-- Leave empty space for review
+- Leave empty space for the review
 
 What to do during breaks? 
 
@@ -22,7 +22,7 @@ Optimal workflow?
 
 1. Read the textbook
 2. Watch the lecture
-3. Free recall at a blackboard or empty paper, complement the notes with links between concepts
+3. Free recall on a blackboard or empty paper, complement the notes with links between concepts
 4. Solve exercises
 5. Review the exercises
     - Correct your answers weekly

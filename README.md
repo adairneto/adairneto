@@ -26,6 +26,10 @@
 
 [Stochastic Differential Equations: Solved problems from Øksendal's book](https://github.com/adairneto/Stochastic-Differential-Equations/tree/main/Exercises%20(pdf))
 
+[Malliavin Calculus](https://github.com/adairneto/Malliavin-Calculus/blob/main/Literature%20Notes/Literature-Notes.pdf)
+
+[Malliavin Calculus: Solved problems from Nunno, Øksendal & Proske](https://github.com/adairneto/Malliavin-Calculus/tree/main/Exercises)
+
 [Financial Risk Management with R](https://github.com/adairneto/Finance/blob/main/Notes.pdf)
 
 [Advanced Linear Algebra](https://raw.githubusercontent.com/adairneto/Advanced-Linear-Algebra/main/Main.pdf)
